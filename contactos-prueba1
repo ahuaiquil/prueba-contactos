@@ -1,17 +1,22 @@
 [
   {
-    "userId": 1,
+    "userId": prueba_1,
     "id": 1,
-    "title": "quidem molestiae enim"
+    "title": "Alexis Huaiquil Alister"
   },
   {
-    "userId": 1,
+    "userId": Profesor - Liceo Collao,
     "id": 2,
-    "title": "sunt qui excepturi placeat culpa"
+    "title": "Ricardo Poblete Constanzo"
   },
    {
-    "userId": 10,
+    "userId": Profesor - Liceo Collao,
     "id": 100,
-    "title": "enim repellat iste"
-  }
+    "title": "Profesor 2"
+  },
+    {
+    "userId": Profesor - Liceo Collao,
+    "id": 2,
+    "title": "Profesor 3"
+  },
 ]
