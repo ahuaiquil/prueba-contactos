@@ -1,17 +1,27 @@
 [
   {
-    "userId": 1,
+    "userId": prueba1,
     "id": 1,
-    "title": "quidem molestiae enim"
+    "title": "Alexis Huaiquil Alister"
   },
   {
-    "userId": 10,
+    "userId": Profesor: Mecánica automotriz,
     "id": 99,
-    "title": "consectetur ut id impedit dolores sit ad ex aut"
+    "title": "Ricardo Poblete Constanzo"
+  },
+    {
+    "userId": Profesor: Mecánica automotriz,
+    "id": 99,
+    "title": "Profesor 2"
+  },
+    {
+    "userId": Profesor: Mecánica automotriz,
+    "id": 99,
+    "title": "Profesor 3"
   },
   {
-    "userId": 10,
+    "userId": 3er nivel ,
     "id": 100,
-    "title": "enim repellat iste"
+    "title": "Alumno 100"
   }
 ]
